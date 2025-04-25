@@ -1,3 +1,5 @@
+[![CI/CD Pipeline](https://github.com/DiegoaARM/labfaker/actions/workflows/build.yml/badge.svg)](https://github.com/DiegoaARM/labfaker/actions/workflows/build.yml)
+
 Implementation of a Simple App with the next operations:
 
 * Get random nations
